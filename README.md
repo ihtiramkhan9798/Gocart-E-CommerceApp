@@ -61,10 +61,10 @@ npm run dev
 
 Open [http://localhost:3000](http://localhost:3000) in your browser to see the app running locally.
 
-
+```
  📁 Project Structure
 
-```
+
 gocart-main/
 ├── app/
 │   ├── (public)/        # Customer-facing pages
@@ -77,7 +77,7 @@ gocart-main/
 ├── components/
 ├── public/
 └── package.json
-
+```
 
  🤝 Contributing
 
@@ -90,10 +90,7 @@ Contributions are welcome! If you'd like to improve GoCart:
 5. Open a Pull Request
 
 
-
- 📜 License
-
-This project is licensed under the MIT License.
+```
 
 
 
