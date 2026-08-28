@@ -61,7 +61,7 @@ npm run dev
 
 Open [http://localhost:3000](http://localhost:3000) in your browser to see the app running locally.
 
-```
+
  📁 Project Structure
 
 
@@ -77,10 +77,10 @@ gocart-main/
 ├── components/
 ├── public/
 └── package.json
-```
+
 
  🤝 Contributing
-
+ 
 Contributions are welcome! If you'd like to improve GoCart:
 
 1. Fork the repository
@@ -89,11 +89,6 @@ Contributions are welcome! If you'd like to improve GoCart:
 4. Push to your branch (`git push origin feature/your-feature`)
 5. Open a Pull Request
 
-
 ```
-
-
-
-
   Built with ❤️ using Next.js
 Made by Ihtiram Khan
